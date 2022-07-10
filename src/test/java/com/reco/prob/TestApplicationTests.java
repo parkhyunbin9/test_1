@@ -1,4 +1,4 @@
-package com.reco.test;
+package com.reco.prob;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
